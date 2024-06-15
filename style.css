@@ -1,0 +1,20 @@
+.bg-dark {
+    background-color: #343a40 !important;
+    font-weight: 600;
+  }
+  .w-100 {
+    width: 100% !important;
+    height: 350px;
+  }
+  .pb-3, .py-3 {
+    padding-bottom: 1rem !important;
+    font-weight: 635;
+  }
+  .text-center {
+    text-align: center !important;
+    font-weight: 600;
+  }
+  .mb-4 {
+    margin-bottom: 1.5rem !important;
+    font-weight: 600;
+  }
